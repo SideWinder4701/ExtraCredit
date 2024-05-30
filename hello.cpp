@@ -8,4 +8,5 @@ int main () {
 
   MyClass a(5);
   cout << a.getX() << endl;
+  // This is a change. It is different
 }

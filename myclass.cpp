@@ -7,6 +7,7 @@ MyClass::MyClass(int x_) {
   x = x_; 
 }
 
-int MyClass::getX() { 
-  return x; 
+int MyClass::getX() {
+  return x;
+    // changes changes changes changes changes changes changes
 }
