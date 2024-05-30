@@ -10,5 +10,4 @@ int main () {
   cout << a.getX() << endl;
   // This is a change. It is different
   // This also a change. It is the same
-  // HOPE IT
 }
